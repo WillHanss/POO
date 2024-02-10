@@ -17,6 +17,9 @@ public class Main {
             case 2->{
                 Reto2.exec();
             }
+            case 3->{
+                Reto3.exec();
+            }
             default->{
                 System.out.println("Pon un numero valido");
             } 
